@@ -47,7 +47,7 @@ is not needed to install packages with these frameworks:
 | Magento      | `magento-library`<br>`magento-skin`<br>`magento-theme`
 | Mako         | `mako-package`
 | MediaWiki    | `mediawiki-extension`
-| OXID         | `oxid-module`
+| OXID         | `oxid-module`<br>`oxid-theme`<br>`oxid-out`
 | MODULEWork   | `modulework-module`
 | phpBB        | `phpbb-extension`<br>`phpbb-style`<br>`phpbb-language`
 | PPI          | **`ppi-module`**
